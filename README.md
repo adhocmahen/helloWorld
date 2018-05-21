@@ -1,2 +1,2 @@
 # helloWorld
-Test README
+Delete the line "Test README" from GUI
