@@ -1,5 +1,2 @@
-delete all lines from tool
-new line to be added is as hm
-delete all lines from GUI
-add the line i am good
-Merged lines are as above
+delete all merged lines and add the line for saying hi
+hi
