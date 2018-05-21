@@ -1,0 +1,2 @@
+delete all merged lines and add the line for saying hi
+hi
