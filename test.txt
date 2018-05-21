@@ -1,3 +1,2 @@
-add the line hello from browser
-delete the line test
-adding the line hi
+delete all lines from GUI
+add the line i am good
